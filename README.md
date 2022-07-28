@@ -14,8 +14,13 @@ If you wish to use this roles in neo4j, they may be loaded with the following co
 
 ```
 
+```cypher
+
+   LOAD CSV WITH HEADERS FROM FIELDTERMINATOR ';'
+   'https://raw.githubusercontent.com/dahe5/roles/master/kilder.csv' AS line
+   CREATE (:Role { name: line.name , line.description})
+```
+
 # Heading
 
 ## Heading 2
-
-
