@@ -1,4 +1,5 @@
 id;name;description
-1; Folkeregister; Autorativ informasjon om Norske borgere
-2; Advokatregisteret; Autorativ informasjon om Advokater og rettshjelpere
-3; Matrikkelen; Matrikkelen er Norges offisielle eiendomsregister. Registeret inneholder informasjon om eiendomsgrenser, areal, bygninger, boliger og adresser
+1;Folkeregister;Autorativ informasjon om Norske borgere
+2;Advokatregisteret;Autorativ informasjon om Advokater og rettshjelpere
+3;Matrikkelen;Matrikkelen er Norges offisielle eiendomsregister. Registeret inneholder informasjon om eiendomsgrenser, areal, bygninger, boliger og adresser
+4;Enhetsregisteret;Her finner du nøkkelopplysninger om alle virksomheter som pr. i dag er registrert i Enhetsregisteret. Du kan søke på navn, eller på organisasjonsnummer
