@@ -24,3 +24,10 @@ LOAD CSV WITH HEADERS FROM
 CREATE (:Kilder { name: line.name, description: line.description })
 
 ```
+
+```cypher
+MATCH (n:Lokasjon) DETACH DELETE n
+LOAD CSV WITH HEADERS FROM
+'https://raw.githubusercontent.com/dahe5/roles/master/lokasjoner.csv' AS line FIELDTERMINATOR ';'
+CREATE (:Lokasjon { name: line.name, adresse: line.adresse, sted: line.sted, land: line.land })
+```
