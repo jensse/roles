@@ -1,0 +1,12 @@
+"id";"name";"description";
+1;"Folkeregister";"Autorativ informasjon om Norske borgere";
+2;"Advokatregisteret";"Autorativ informasjon om Advokater og rettshjelpere";
+3;"Matrikkelen";Matrikkelen er Norges offisielle eiendomsregister. "Registeret inneholder informasjon om eiendomsgrenser; areal; bygninger; boliger og adresser";
+4;"Enhetsregisteret";"Her finner du nøkkelopplysninger om alle virksomheter som pr. i dag er registrert i Enhetsregisteret. Du kan søke på navn; eller på organisasjonsnummer";
+5;"Virksomhetsregisteret";"Finanstilsynets virksomhetsregister inneholder informasjon om alle foretak og personer som har konsesjon og er under tilsyn av Finanstilsynet. Alle typer tillatelser; bevillinger og autorisasjoner er i dette registeret kalt "konsesjon". I tillegg inneholder virksomhetsregisteret oversikt over foretak som kun er registrert hos Finanstilsynet.";
+6;"Tolkeregisteret";"Nasjonalt register med informasjon om tolker og deres kvalifikasjoner. Registeransvarlig er UDI.";
+7;"DFØ API";"Domstolenes ansatte";
+8;"Contempus";"DFØ ";
+9;"Agresso";"DFØ";
+10;"BRREG";"Brønøysundregisteret"
+11:"JustisHUB";"Integrasjon mot KDI og POD"
